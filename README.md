@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @chiyukipi. You can call me Chi or Chiyu.
-- 👀 I’m interested in VR/AR and game development.
+- 👋 Hi, I’m @chiyukipi. You can call me Chi or Chiyu
+- 👀 I’m interested in VR/AR and game development
 - 🌱 I’m currently learning VR/AR development
-- 📫 Reach me Discord @ Chiyukipi#2024
+- 📫 Reach me on Discord @ Chiyukipi#2024
 
 <!---
 chiyukipi/chiyukipi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
